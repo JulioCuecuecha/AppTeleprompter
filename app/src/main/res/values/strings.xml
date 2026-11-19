@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">StagePrompt</string>
+    <string name="app_subtitle">Teleprompter de Escenario</string>
+
+    <!-- Main Screen & Navigation -->
+    <string name="search_scripts_placeholder">Buscar canción o guion…</string>
+    <string name="clear_search">Limpiar búsqueda</string>
+    <string name="all_folders">Todas</string>
+    <string name="new_folder">Nueva carpeta</string>
+    <string name="new_script">Nuevo guion</string>
+    <string name="start_teleprompter">INICIAR TELEPROMPTER</string>
+    <string name="edit_script">Editar</string>
+    <string name="delete_script">Eliminar</string>
+    <string name="back_to_list">Volver a la lista</string>
+    <string name="scripts_count_format">%1$d guiones</string>
+
+    <!-- Sorting -->
+    <string name="sort_alphabetical">A–Z</string>
+    <string name="sort_recent">Reciente</string>
+    <string name="sort_custom">Ordenar</string>
+    <string name="drag_reorder_hint">Arrastra o usa flechas para reordenar el setlist</string>
+
+    <!-- Import & Folder Sync -->
+    <string name="link_txt_folder">Vincular carpeta (.TXT)</string>
+    <string name="sync_folder">Sincronizar carpeta</string>
+    <string name="syncing_folder">Sincronizando…</string>
+    <string name="import_txt_files">Importar archivos (.TXT)</string>
+    <string name="import_prompt_backup">Importar respaldo (.prompt / .json)</string>
+    <string name="folder_linked_label">Carpeta vinculada: %1$s</string>
+    <string name="no_folder_linked">Sin carpeta local vinculada</string>
+    <string name="import_actions_title">Importar repertorio</string>
+
+    <!-- Empty State -->
+    <string name="empty_repertoire_title">Tu repertorio está listo para el escenario</string>
+    <string name="empty_repertoire_subtitle">Vincula una carpeta de archivos .TXT desde tu tablet, importa tu respaldo .prompt de Teleprompter Pro o crea un guion nuevo.</string>
+    <string name="select_script_prompt">Selecciona un guion del panel izquierdo para ver la vista previa e iniciar el teleprompter.</string>
+
+    <!-- Editor Screen -->
+    <string name="editor_new_title">Nuevo guion</string>
+    <string name="editor_edit_title">Editar guion</string>
+    <string name="script_title_label">Título de canción o guion</string>
+    <string name="script_content_placeholder">Escribe o pega aquí la letra o guion…\nUsa las etiquetas rápidas arriba para resaltar [MÚSICA], (Coro) o (2da).</string>
+    <string name="save_script">Guardar</string>
+    <string name="discard_changes">Volver</string>
+    <string name="folder_label">Carpeta / Setlist</string>
+    <string name="quick_tags_label">Etiquetas rápidas:</string>
+
+    <!-- Player HUD -->
+    <string name="play_action">Reproducir</string>
+    <string name="pause_action">Pausar</string>
+    <string name="exit_player">Salir</string>
+    <string name="reset_scroll">Reiniciar al inicio</string>
+    <string name="speed_label">Velocidad</string>
+    <string name="font_size_label">Tamaño</string>
+    <string name="margins_label">Márgenes</string>
+    <string name="guide_opacity_label">Guía de lectura</string>
+    <string name="alignment_label">Alineación</string>
+    <string name="align_left">Izq</string>
+    <string name="align_center">Centro</string>
+    <string name="align_right">Der</string>
+    <string name="mirror_horizontal">Espejo H</string>
+    <string name="mirror_vertical">Espejo V</string>
+    <string name="countdown_label">Cuenta regresiva</string>
+    <string name="show_controls">Controles</string>
+    <string name="hide_controls">Ocultar HUD</string>
+    <string name="appearance_controls">Ajustes visuales</string>
+    <string name="pedal_shortcuts_hint">Espacio/Enter: Play · ↑/↓: Velocidad · RePág/AvPág: Secciones</string>
+    <string name="prev_song">Canción anterior</string>
+    <string name="next_song">Siguiente canción</string>
+
+    <!-- Dialogs -->
+    <string name="create_folder_title">Nueva carpeta / Setlist</string>
+    <string name="folder_name_placeholder">Ej. Show Acústico, Baladas, Set 1</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_confirm_title">¿Eliminar guion?</string>
+    <string name="delete_confirm_message">Esta acción eliminará «%1$s» de la base de datos local. El archivo original en tu carpeta no se borrará.</string>
+</resources>

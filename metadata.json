@@ -1,0 +1,6 @@
+{
+  "name": "StagePrompt",
+  "description": "Teleprompter profesional para tablets Android con modo oscuro puro, sincronización de carpetas TXT, importación de respaldos .prompt y control por pedal Bluetooth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
